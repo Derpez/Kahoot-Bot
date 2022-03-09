@@ -13,7 +13,7 @@ var version = "v1.00 ";
 var author = "by Derpez (Enter To Continue)";
 
 // The questions asked at the beggining of the script. If name is changed it also has to change on the var = on line 12 - 15
-let watermark = readline.question(colors.red.bold("FORCEPOINT " + version + author)); 
+let watermark = readline.question(colors.red.bold("Kahoot Bot " + version + author)); 
 let pinasked = readline.question(colors.red.bold("Game Pin: ")); 
 let nameasked = readline.question(colors.red.bold("Bot Name: "));
 let botcountasked = readline.question(colors.red.bold("Number Of Bots(Don't Recommend Over 2000): "));

@@ -11,4 +11,9 @@ than run "node index.js" without the qoutations to start the bot.
 # Requirements
 Node JS
 
-# Have Fun, but do note that you should not abuse this and only use it for educational purposes!
+# Errors
+If you get any errors or have issues running this go ahead and create a new issue and I will try by best
+to help you.
+
+# Disclaimer!
+Have Fun, but do note that you should not abuse this and only use it for educational purposes!
